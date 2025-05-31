@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ramppatel/ramppatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ram Patel — a tech enthusiast passionate about **Competitive Programming (CP)** and **Data Structures & Algorithms (DSA)**.  
+I love tackling complex problems and continuously sharpening my problem-solving skills through platforms like LeetCode, Codeforces, and GFG.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- Advanced DSA concepts
+- Web Development (MERN stack)
+- Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Tech Interests:
+- Full-Stack Web Development
+- Backend Engineering
+- DevOps and Cloud Technologies
+
+### 💬 Ask Me About:
+- Problem-solving strategies
+- CP contest prep
+- JavaScript, React, Node.js
+
+### 📫 How to Reach Me:
+- 📧 Email: ram8881patel@gmail.com
+
+### ⚡ Fun Fact:
+I often lose track of time while debugging — it's both the frustration and the fun of coding!
+
+---
+
+Thanks for stopping by! 🚀
